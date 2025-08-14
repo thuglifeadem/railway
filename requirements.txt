@@ -6,3 +6,4 @@ tweepy
 python-dotenv
 pydantic
 openai
+python-multipart
